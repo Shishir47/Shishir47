@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Long-Term Web Development Projects
 - 📫 How to reach me madmaxshishir47@gmail.com
 
-![Shishir47's GitHub stats](https://github-readme-repo-card.vercel.app/api?username=shishir47&theme=dark&show_icons=true)
 ![Shishir47's GitHub stats](https://github-readme-stats.vercel.app/api?username=shishir47&theme=dark&show_icons=true)
 
 
