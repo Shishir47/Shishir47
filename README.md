@@ -6,6 +6,7 @@
 
 ![Shishir47's GitHub stats](https://github-readme-stats.vercel.app/api?username=shishir47&theme=dark&show_icons=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shishir47)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Shishir47/Shishir47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
