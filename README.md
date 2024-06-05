@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shishir47
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning .Net Software Development
+- 👀 I’m interested in Kotlin
+- 🌱 I’m currently learning Android App Development
 - 💞️ I’m looking to collaborate on Long-Term Web Development Projects
 - 📫 How to reach me madmaxshishir47@gmail.com
 
