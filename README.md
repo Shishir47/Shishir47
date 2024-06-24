@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shishir47
 - 👀 I’m interested in Kotlin
 - 🌱 I’m currently learning Android App Development
-- 💞️ I’m looking to collaborate on Long-Term Web Development Projects
+- 💞️ I’m looking to collaborate on Long-Term Android Development Projects
 - 📫 How to reach me madmaxshishir47@gmail.com
 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir47&layout=compact)
